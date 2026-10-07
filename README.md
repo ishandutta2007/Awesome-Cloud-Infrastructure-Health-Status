@@ -259,3 +259,12 @@ If you find this infrastructure health monitoring repository useful, please cons
   <b>Made with ❤️ for SREs, DevOps engineers, and open-source monitoring advocates.</b>
 
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Cloud-Infrastructure-Health-Status&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Cloud-Infrastructure-Health-Status_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Cloud-Infrastructure-Health-Status_growth.svg">
+  </picture>
+</a>
