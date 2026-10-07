@@ -202,9 +202,7 @@ Contributions are welcome! Follow these steps to submit new infrastructure healt
 
 
 
-## 📊 Star History
-
-
+## 📈 Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Cloud-Infrastructure-Health-Status&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Cloud-Infrastructure-Health-Status&type=date&legend=top-left)
 
